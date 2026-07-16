@@ -99,7 +99,7 @@ During this project I learned:
 Clone the repository:
 
 ```bash
-git clone https://github.com/AbhiramSakha/football-player-dashboard.git
+git clone https://github.com/AbhiramSakha/skillsbuild.git
 ```
 
 Install dependencies:
